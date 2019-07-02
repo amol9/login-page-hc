@@ -9,4 +9,4 @@ With the following differences:
 2. Used a different background image.
 3. Used a different icon (fa-key) for the password input field.
 
-![page screen shot](https://github.com/amol9/login-page/raw/master/screenshot.png)
+![page screen shot](https://github.com/amol9/login-page-hc/raw/master/screenshot.png)
